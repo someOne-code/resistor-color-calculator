@@ -28,9 +28,9 @@ npx expo start
 ---  
 
 ## 📸 Screenshots  
-| Home Screen | Result Screen |  
-|-------------|---------------|  
-| ![Home Screen](screenshots/home_screen.png) | ![Result Screen](screenshots/result_screen.png) |
+| Home Screen | Color Selection Screen |  
+|-------------|------------------------|  
+| ![Home Screen](screenshots/home_screen.png) | ![Color Selection Screen](screenshots/color_selection_screen.png) |
 
 ---  
 
